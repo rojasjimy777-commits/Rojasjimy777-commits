@@ -1,16 +1,30 @@
-## Hi there 👋
+---
 
-<!--
-**rojasjimy777-commits/Rojasjimy777-commits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```markdown
+👋 Hola, soy Jimy Rojas Llanos
 
-Here are some ideas to get you started:
+💻 Programador Python enfocado en automatizaciones y scripts útiles
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Me dedico a crear soluciones prácticas con código, usando Python para automatizar tareas repetitivas, crear bots y escribir scripts que facilitan el día a día.
+
+---
+
+🚀 Tecnologías que uso
+
+- 🐍 Python
+- ⚙️ Git & GitHub
+- 🧪 Automatización de tareas
+- 🛠️ Scripts útiles
+
+---
+
+📫 Contacto
+mi numero: 59176137664
+- 📧 rojas.jimy.777@gmail.com  
+- 📘 Facebook: [JimyRojasLlanos](https://facebook.com/JimyRojasLlanos)  
+- 🎥 TikTok: [@jimyrojasllanos](https://www.tiktok.com/@jimyrojasllanos)
+
+---
+
+> “La práctica constante convierte el código en poder.” 💪
+'''
