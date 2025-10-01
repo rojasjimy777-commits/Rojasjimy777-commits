@@ -1,6 +1,6 @@
 ---
 
-```markdown
+markdown
 👋 Hola, soy Jimy Rojas Llanos
 
 💻 Programador Python enfocado en automatizaciones y scripts útiles
@@ -27,4 +27,3 @@ mi numero: 59176137664
 ---
 
 > “La práctica constante convierte el código en poder.” 💪
-'''
