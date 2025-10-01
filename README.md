@@ -19,7 +19,6 @@ Me dedico a crear soluciones prácticas con código, usando Python para automati
 ---
 
 📫 Contacto
-mi numero: 59176137664
 - 📧 rojas.jimy.777@gmail.com  
 - 📘 Facebook: [JimyRojasLlanos](https://facebook.com/JimyRojasLlanos)  
 - 🎥 TikTok: [@jimyrojasllanos](https://www.tiktok.com/@jimyrojasllanos)
